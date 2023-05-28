@@ -1,7 +1,7 @@
 .nav {
   width: 90vw;
   margin: auto;
-  background-color: aqua;
+  background-color: rgb(167, 89, 212);
   box-shadow: 0 0 3px 4px black;
 }
 .nav h1 {
